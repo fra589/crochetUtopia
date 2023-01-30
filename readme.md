@@ -1,6 +1,10 @@
 # crochetUtopia
 Crochet de treuillage pour planeur Vol Libre de début.<br />
 
+<p align="center">
+  <img width="90%" src="https://github.com/fra589/crochetUtopia/raw/master/images/crochetUtopiaFreeCAD.png" alt="FreeCAD image">
+</p>
+
 Crochet basculant muni de 2 switch permettant de piloter la minuterie électronique [WeTimer](https://github.com/fra589/WeTimer) (ou toute autre minuterie électronique de planeur Vol Libre).<br />
 Le "switch crochet", monté sur le support fixe, est celui qui permet le déclenchement de la minuterie ainsi que les positions de gouvernes dans les phases de treuillage en montée droite avec surincidence éventuelle et/ou les phase de virages et planés.<br />
 Le "switch zoom" (facultatif), monté sur le corps mobile basculant, permet d'obtenir l'effet zoom : mise en virage au treuil pendant la forte traction qui permet le dévérouillage du crochet au moment du larguage.<br />
